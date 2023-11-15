@@ -33,12 +33,25 @@
 
 This repo holds the website for netwelath.com.au The website is built with:
 
-[![React](https://img.shields.io/badge/React-17.x-blue)](https://reactjs.org/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-4.5.3-blueviolet)](https://getbootstrap.com/)
-[![Zustand](https://img.shields.io/badge/Zustand-3.4.2-orange)](https://zustand.surge.sh/)
-[![React Charts](https://img.shields.io/badge/React%20Charts-3.x-green)](https://reactchartjs.github.io/react-chartjs-2/)
-[![Redux](https://img.shields.io/badge/Redux-4.x-764ABC)](https://redux.js.org/)
-[![MySQL](https://img.shields.io/badge/MySQL-8.x-yellow)](https://www.mysql.com/)
+![GA4](https://img.shields.io/badge/GA4-Google%20Analytics%204-blue)
+![Knockout.js 2.2.1](https://img.shields.io/badge/Knockout.js-2.2.1-blueviolet)
+![HSTS](https://img.shields.io/badge/HSTS-Secure-brightgreen)
+![Font Awesome 4.2.0](https://img.shields.io/badge/Font%20Awesome-4.2.0-orange)
+![Glyphicons](https://img.shields.io/badge/Glyphicons-Icon%20Fonts-blue)
+![Azure Edge Network](https://img.shields.io/badge/Azure%20Edge%20Network-CDN-blue)
+![Salesforce](https://img.shields.io/badge/Salesforce-CRM-blue)
+![Salesforce Service Cloud](https://img.shields.io/badge/Salesforce%20Service%20Cloud-CRM-blue)
+![core-js 3.30.2](https://img.shields.io/badge/core--js-3.30.2-yellow)
+![jQuery UI 1.13.2](https://img.shields.io/badge/jQuery%20UI-1.13.2-blue)
+![jQuery Migrate 3.4.1](https://img.shields.io/badge/jQuery%20Migrate-3.4.1-blue)
+![decimal.js](https://img.shields.io/badge/decimal.js-Number%20Library-green)
+![Hammer.js 2.0.4](https://img.shields.io/badge/Hammer.js-2.0.4-blue)
+![jQuery 1.8.3](https://img.shields.io/badge/jQuery-1.8.3-blue)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-blueviolet)
+![RUM](https://img.shields.io/badge/RUM-Monitoring-brightgreen)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-Monitoring-brightgreen)
+
 
 
 
