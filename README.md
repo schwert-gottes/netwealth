@@ -80,7 +80,7 @@ Netwealth is a technology company, a superannuation fund, and administration bus
 
 Provides tools for buying, selling, and tracking investments, setting up income/pension plans, and utilizing features like dollar cost averaging and reinvestment plans.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446155-credit-handling.png" width="350px" >
+
 
 
 
@@ -89,14 +89,14 @@ Provides tools for buying, selling, and tracking investments, setting up income/
 
 The platform allows users to oversee and manage their investments, including superannuation and non-super funds, in one centralized online location.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446160-game-scheduling.png" width="350px" >
+ 
 
 
 ## Performance Report
 
 Offers detailed performance reports and investment research tools to track portfolio growth and assess investment strategies.
 
-<img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446148-admin-panel.png" width="350px" >
+
 
 
 ## Employee database
@@ -104,7 +104,7 @@ Offers detailed performance reports and investment research tools to track portf
 
 Turbine lets you keep employee information in one place, making it easier to find, use, and update.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690446164-profile-management.png" width="350px" >
+
 
 
 
